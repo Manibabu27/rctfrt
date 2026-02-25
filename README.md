@@ -96,4 +96,7 @@ For React Router support, add a file inside public folder named
 -   Delete employee\
 -   Mark attendance\
 -   View attendance records\
+-   BONUS FEATURES:
+-   Filter attendance records by date\
+-   Display total present days per employee\
 -   Integrated with FastAPI backend
